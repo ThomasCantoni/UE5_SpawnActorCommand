@@ -1,6 +1,5 @@
-# Unnecessary starter content
-*Content/StarterContent/**
-!*Content/StarterContent/Blueprints/**
+#unnecessary large files
+*Content/StarterContent/Textures/**
 
 # Visual Studio 2015 user specific files
 .vs/
